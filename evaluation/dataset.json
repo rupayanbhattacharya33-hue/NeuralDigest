@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "topic": "artificial intelligence",
+        "article": "Artificial intelligence is rapidly changing the way people work and communicate. Modern AI systems can analyze large amounts of information, generate text, recognize images and assist users with complex tasks. Transformer-based models have significantly improved natural language processing.",
+        "reference_summary": "Artificial intelligence is transforming work and communication. Modern AI systems can analyze information, generate text, recognize images and assist with complex tasks."
+    },
+    {
+        "id": 2,
+        "topic": "news summarization",
+        "article": "News websites publish large numbers of articles every day, making it difficult for readers to understand all important developments. Automatic summarization systems can process articles and produce shorter versions containing the most important information.",
+        "reference_summary": "Automatic news summarization helps readers understand important developments by reducing long articles into concise summaries."
+    },
+    {
+        "id": 3,
+        "topic": "abstractive summarization",
+        "article": "Abstractive summarization is different from simple extraction. Instead of only selecting existing sentences, an abstractive model can generate new sentences that represent the meaning of the original document. Transformer models such as BART are particularly useful for this task because they are trained to understand and generate natural language.",
+        "reference_summary": "Abstractive summarization generates new sentences that represent the meaning of a document. Transformer models such as BART are designed for understanding and generating natural language."
+    },
+    {
+        "id": 4,
+        "topic": "multi document summarization",
+        "article": "A multi-document summarization system can process several articles about the same topic. It can identify information shared across different sources, reduce repetition and generate one coherent summary for the reader.",
+        "reference_summary": "Multi-document summarization combines several articles about the same topic, removes repeated information and produces one coherent summary."
+    },
+    {
+        "id": 5,
+        "topic": "AI news",
+        "article": "People often receive information about the same event from multiple news organizations. Reading every article individually takes time and can expose readers to repeated information. A multi-document summarizer can combine these sources and present the most important information in a concise form.",
+        "reference_summary": "Multi-document summarizers combine coverage from different news organizations to reduce repetition and present important information concisely."
+    }
+]
